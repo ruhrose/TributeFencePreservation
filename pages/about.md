@@ -11,6 +11,7 @@ permalink: /about.html
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 ## About the Collection
+ 
 
 This site is generated using [`collectionbuilder-gh`](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
@@ -21,13 +22,9 @@ The base site features four objects from the University of Idaho Library's [Digi
 
 ## About the About Page
 
-We want to make About pages exciting, and easy to build. 
-
-The CollectionBuilder about page features a narrowed column with its own (optional) menu, featured content, and some technical information. 
-
-To build one, a user writes in [Markdown](https://guides.github.com/features/mastering-markdown/) and includes  content from the site, as well as typical [Bootstrap](https://getbootstrap.com/) features like cards and modals, using code snippets like those detailed below. 
-
-(Each included file has several options, which are documented in the files themselves. I've given the content widths of 25% and 50% to save space, but you can feature the entire image or document.) 
+Beginning June 30, 2013, the day that nineteen Granite Mountain Hotshots died fighting the Yarnell Hill Fire, the fence outside Fire Station 7 became a place of tribute and mourning. 
+In September, an amazing group of volunteers recognized the need to preserve the tangible outpouring of community grief and respect along the fence at Prescott Fire Station 7.
+Led by Jan Monroe and Dottie Morris, the volunteers began to carefully remove t-shirts, flags, toys and artwork from the fence, photographing them and documenting details.
 
 - Image --> `{% raw %}{% include feature/item-figure.html objectid="demo_001" width="25" %}{% endraw %}`
 
