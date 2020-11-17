@@ -18,20 +18,20 @@ source-code: https://github.com/ruhrose/TributeFencePreservation
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-GH 
+title: Granite Mountain Hotshots Tribute Fence 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: Materials related to the Tribute Fence Preservation Project
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "This collection contains video, textual, and image files from the Tribute Fence Preservation Project from Prescott Public Library."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: ruhrose
 
 ##########
 # COLLECTION SETTINGS
 #
 # choose metadata: this is the name of the csv file in your _data directory that describes the objects in your collection
-metadata: demo-metadata 
+metadata: tributefence 
 
 ##########
 # GOOGLE SERVICES [optional!]
@@ -42,9 +42,9 @@ metadata: demo-metadata
 
 ##########
 # ROBOTS EXCLUDE
-#
+# 
 # set noindex to true if you do NOT want Google to index your site
-# noindex: true 
+noindex: true 
 
 ##########
 # BUILD SETTINGS 
