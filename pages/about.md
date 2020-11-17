@@ -13,18 +13,11 @@ permalink: /about.html
 ## About the Collection
  
 
-This site is generated using [`collectionbuilder-gh`](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
-
-- a CSV of collection metadata
-- a folder of JPEG images or PDF documents
-
-The base site features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+Beginning June 30, 2013, the day that nineteen Granite Mountain Hotshots died fighting the Yarnell Hill Fire, the fence outside Fire Station 7 became a place of tribute and mourning. In September, an amazing group of volunteers recognized the need to preserve the tangible outpouring of community grief and respect along the fence at Prescott Fire Station 7.  Led by Jan Monroe and Dottie Morris, the volunteers began to carefully remove t-shirts, flags, toys and artwork from the fence, photographing them and documenting details. Six months and 10,000 photographs later, Jan and Dottie identified the Arizona Memory Project as the perfect place to make these digital records available to the public, creating a kind of online museum about the Tribute Fence.
 
 ## About the About Page
 
-Beginning June 30, 2013, the day that nineteen Granite Mountain Hotshots died fighting the Yarnell Hill Fire, the fence outside Fire Station 7 became a place of tribute and mourning. 
-In September, an amazing group of volunteers recognized the need to preserve the tangible outpouring of community grief and respect along the fence at Prescott Fire Station 7.
-Led by Jan Monroe and Dottie Morris, the volunteers began to carefully remove t-shirts, flags, toys and artwork from the fence, photographing them and documenting details.
+TThe Tribute Fence Preservation Project (TFPP) and Prescott Public Library partnered with the Arizona State Library, Archives and Public Records to create an online digital collection of materials left in tribute for the Prescott Granite Mountain Hotshots.  This digital collection is available to the public as part of the Arizona Memory Project.
 
 - Image --> `{% raw %}{% include feature/item-figure.html objectid="demo_001" width="25" %}{% endraw %}`
 
