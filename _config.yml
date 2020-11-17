@@ -20,10 +20,11 @@ source-code: https://github.com/ruhrose/TributeFencePreservation
 # title of site appears in banner
 title: Granite Mountain Hotshots Tribute Fence 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Materials related to the Tribute Fence Preservation Project
+tagline: Materials related to the Tribute Fence Preservation Project.
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "This collection contains video, textual, and image files from the Tribute Fence Preservation Project from Prescott Public Library."
+description: "This collection contains video, textual, and image files from the Tribute Fence Preservation Project from Prescott Public Library. 
+Items were left to honor the memory of the Granite Mountain Hotshots between June 30 and September 10, 2013."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: ruhrose
 
